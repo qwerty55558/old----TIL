@@ -82,8 +82,8 @@ Status Code (상태 코드): 굉장히 많은 종류가 있으며 모두 세자�
 
 예시)
 
-HTTP/1.1 200 OK														// 시작줄
-Connection: keep-alive												 // 헤더
+HTTP/1.1 200 OK				// 시작줄
+Connection: keep-alive		// 헤더
 Content-Encoding: gzip												 
 Content-Length: 35653
 Content-Type: text/html;
